@@ -1,1 +1,11 @@
-# 7-3-Portfolio
+*How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+Testing was the most crucial and important way that I was able to consistently adhere to the proper guidelines and assure that my initial code was capable of doing what it needed to do in the proper manner. The initial “animal shelter” code and class were the basis for every subsequent assignment and project, so being able to set the standard and precedent for this early on in the first project proved instrumental in my future success in the course.
+
+*How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+By being able to draw on a real existing database instead of simply inputting our own information and drawing from our own classes allowed us to become familiarized with the concept of integration and simplification, as in many of our future endeavors we will likely be tasked with incorporating and drawing from thousands or even hundreds of thousands of files in a way that is quick, simple and secure, so the experience we learned in being able to access and draw from the Mongo database as well as create pathways for username and password recognition in our own databases and created Java classes will be invaluable.
+
+*What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists are responsible for designing and creating programs that are able to meet the standards of their clients and the industry in a way that satisfies both, such as adherence to security and required anonymity, testing and updating software, developing algorithms for the sake of simplicity etc. Projects like this help companies like Grazioso Salvare create an efficient way to manage their otherwise overwhelming excess of data, and create individual accounts for their employees to be able to access that data when needed.
